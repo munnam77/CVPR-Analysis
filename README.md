@@ -39,8 +39,8 @@ Inspired by [`ICLR2019-OpenReviewData`](https://github.com/shaohua0116/ICLR2019-
 
 - The above data can be obtained from a simple jupyter notebook script.
 - I wrote two versions of the code.
-   - [`CVPR2019_stats.ipynb`](https://github.com/munnam77/CVPR-Analysis/CVPR2019_stats.ipynb) --> All topics analysis visualization.
-   - [`CVPR_paper_statistics_using_csv.ipynb`](https://github.com/munnam77/CVPR-Analysis/CVPR_paper_statistics_using_csv.ipynb) --> Use   csv data format
+   - [`CVPR2019_stats.ipynb`](https://github.com/munnam77/CVPR-Analysis/blob/master/CVPR2019_stats.ipynb) --> All topics analysis visualization.
+   - [`CVPR_paper_statistics_using_csv.ipynb`](https://github.com/munnam77/CVPR-Analysis/blob/master/CVPR_paper_statistics_using_csv.ipynb) --> Use   csv data format
 
 ## Prerequisites
 - python3.5
