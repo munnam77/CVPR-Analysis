@@ -17,12 +17,12 @@ Inspired by [`ICLR2019-OpenReviewData`](https://github.com/shaohua0116/ICLR2019-
 </p>
 
 # CVPR 2019 simple paper review(20 papers)
-- [Slide](https://www.slideshare.net/HoseongLee6/2019-cvpr-paperoverview)
+- [Slide](https://www.slideshare.net/munnam77/2019-cvpr-paper-overview-by-ho-seong-lee)
 
 
 
 # CVPR Paper Keywords statistics
-- [Accepted Paper list](https://github.com/hoya012/CVPR-Paper-Statistics/blob/master/2019_cvpr/cvpr_2019_poster.csv)
+- [Accepted Paper list](https://github.com/munnam77/CVPR-Analysis/2019_cvpr/cvpr_2019_poster.csv)
 
 - Most of the top keywords were maintained
    - Image, detection, 3d, object, video, segmentation, adversarial, recognition, visual …
@@ -39,8 +39,8 @@ Inspired by [`ICLR2019-OpenReviewData`](https://github.com/shaohua0116/ICLR2019-
 
 - The above data can be obtained from a simple jupyter notebook script.
 - I wrote two versions of the code.
-   - [`CVPR_paper_statistics_using_csv.ipynb`](https://github.com/hoya012/CVPR-Paper-Statistics/blob/master/CVPR_paper_statistics_using_csv.ipynb) --> Use csv data format
-   - [`CVPR_paper_statistics_using_chrome.ipynb`](https://github.com/hoya012/CVPR-Paper-Statistics/blob/master/CVPR_paper_statistics_using_chrome.ipynb) --> Use website data format
+   - [`CVPR2019_stats.ipynb`](https://github.com/munnam77/CVPR-Analysis/CVPR2019_stats.ipynb) --> All topics analysis visualization.
+   - [`CVPR_paper_statistics_using_csv.ipynb`](https://github.com/munnam77/CVPR-Analysis/CVPR_paper_statistics_using_csv.ipynb) --> Use   csv data format
 
 ## Prerequisites
 - python3.5
