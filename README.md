@@ -1,4 +1,4 @@
-# CVPR-Paper-Statistics
+# CVPR-Paper-Analysis
 Statistics and Visualization of acceptance rate, main keyword of CVPR 2019 accepted papers for the main Computer Vision conference [(CVPR 2019)](http://cvpr2019.thecvf.com/)
 
 Inspired by [`ICLR2019-OpenReviewData`](https://github.com/shaohua0116/ICLR2019-OpenReviewData)
@@ -50,7 +50,7 @@ Inspired by [`ICLR2019-OpenReviewData`](https://github.com/shaohua0116/ICLR2019-
 
 or 
 
-**i highly recommend to use** [google colab](https://colab.research.google.com/)
+**I highly recommend to use** [google colab](https://colab.research.google.com/)
 
 Just **download jupyter notebook** and **move to your google drive** and **Open with Colaboratory**
 
